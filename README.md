@@ -1,1 +1,1 @@
-# Webd-Project
+This project is a Weather app
